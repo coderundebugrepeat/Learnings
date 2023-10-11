@@ -1,0 +1,1 @@
+# Service to fetch configuration from spring cloud config server
